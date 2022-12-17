@@ -3,19 +3,109 @@
     {
       "id": 1,
       "titulo": "Avatar",
+      "categoria":"ficção",
       "preco": "50"
     },
     {
       "titulo": "As branquelas",
+      "categoria":"Comédia",
       "preco": "20",
       "id": 2
-    }
-    ,
+    },
     {
+      
       "titulo": "O quarto de guerra",
+      "categoria" :"Evangélico",
       "preco": "15",
       "id": 3
+    },
+    {
+      
+      "titulo": "A espera de um milagre",
+      "categoria" :"Baseado em fatos reais",
+      "preco": "25",
+      "id": 4
+    },
+    {
+      
+      "titulo": "Espírito corcel indomável",
+      "categoria" :"Infantil",
+      "preco": "10",
+      "id": 5
     }
+  ], 
 
-  ]
+    "cliente_cine": [
+        {
+            "id": 1,
+            "cpf": "93473016632",
+            "nome": "Isabelly Viana"
+            
+        },
+    {
+            "id": 2,
+            "cpf": "87413233355",
+            "nome": "Bruna Ramos"
+            
+        },
+    {
+            "id": 3,
+            "cpf": "32733301985",
+            "nome": "Ana Júlia Costela"
+            
+        },
+    {
+            "id": 4,
+            "cpf": "13768008614",
+            "nome": "Luiza Vieira"
+            
+        },
+    {
+            "id": 5,
+            "cpf": "31221228552",
+            "nome": "Gabrielly Souza"
+            
+        },
+        {
+                "id": 6,
+                "cpf": "62188567471",
+                "nome": "Giovanna Farias"
+                
+            }
+
+    ],
+
+    "exibicao" : [
+      {
+        "id" : 1 ,
+        "capacidade" : 175 ,
+        "titulo" : " Avatar " ,
+        "horário" : " 22 p.m "
+      },
+      {
+        "id" : 2 ,
+        "capacidade" : 100 ,
+        "titulo" : " As branquelas " ,
+        "horario" : " 17 p.m "
+      },
+      {
+        "id" : 3 ,
+        "capacidade" : 397 ,
+        "titulo" : " O quarto de guerra" ,
+        "horário" : " 20 p.m "
+      },
+      {
+        "id" : 4 ,
+        "capacidade" : 480 ,
+        "titulo" : " A espera de um milagre " ,
+        "horário" : " 23 p.m "
+      },
+      {
+        "id" : 5 ,
+        "capacidade" : 300 ,
+        "titulo" : " Espírito corssel indomável " ,
+        "horário" : " 12 a.m "
+      }
+    ]
 }
+

@@ -4,11 +4,7 @@
   "description": "O objtivo deste projeto é ter um um banco de dados utilizando o GRUD onde o usúario pode alterar listar inserir e deletar dados.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FlaviaSena/Projeto_Individual_Modulo_3_Desenvolvimento_Web.git"
+    "test": " node server.js "
   },
   "keywords": [],
   "author": "Flávia Dos Anjos Sena",
