@@ -39,37 +39,43 @@
         {
             "id": 1,
             "cpf": "93473016632",
-            "nome": "Isabelly Viana"
+            "nome": "Isabelly Viana",
+            "pagamento":"Crédito"
             
         },
     {
             "id": 2,
             "cpf": "87413233355",
-            "nome": "Bruna Ramos"
+            "nome": "Bruna Ramos",
+            "pagamento":"Crédito"
             
         },
     {
             "id": 3,
             "cpf": "32733301985",
-            "nome": "Ana Júlia Costela"
+            "nome": "Ana Júlia Costela",
+            "pagamento":"Crédito"
             
         },
     {
             "id": 4,
             "cpf": "13768008614",
-            "nome": "Luiza Vieira"
+            "nome": "Luiza Vieira",
+            "pagamento":"Crédito"
             
         },
     {
             "id": 5,
             "cpf": "31221228552",
-            "nome": "Gabrielly Souza"
+            "nome": "Gabrielly Souza",
+            "pagamento":"Crédito"
             
         },
         {
                 "id": 6,
                 "cpf": "62188567471",
-                "nome": "Giovanna Farias"
+                "nome": "Giovanna Farias",
+                "pagamento":"Crédito"
                 
             }
 
