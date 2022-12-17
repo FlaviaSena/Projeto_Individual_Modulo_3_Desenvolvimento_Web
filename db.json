@@ -1,0 +1,21 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Avatar",
+      "preco": "50"
+    },
+    {
+      "titulo": "As branquelas",
+      "preco": "20",
+      "id": 2
+    }
+    ,
+    {
+      "titulo": "O quarto de guerra",
+      "preco": "15",
+      "id": 3
+    }
+
+  ]
+}
