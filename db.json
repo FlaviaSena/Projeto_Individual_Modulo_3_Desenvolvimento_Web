@@ -31,42 +31,34 @@
       "id": 5
     }
   ],
-  "cliente_cine": [
+  "usuarios": [
     {
       "id": 1,
-      "cpf": "93473016632",
-      "nome": "Isabelly Viana",
-      "pagamento": "Crédito"
+      "email": "diego@gmail.com",
+      "senha": "123456789",
+      "telefone": "21967554477",
+      "cpf": "123456789-12"
     },
     {
       "id": 2,
-      "cpf": "87413233355",
-      "nome": "Bruna Ramos",
-      "pagamento": "Crédito"
+      "email": "camila@gmail.com",
+      "senha": "987654321",
+      "telefone": "21999999999",
+      "cpf": "987654321-98"
     },
     {
       "id": 3,
-      "cpf": "32733301985",
-      "nome": "Ana Júlia Costela",
-      "pagamento": "Crédito"
+      "email": "hudson@gmail.com",
+      "senha": "abcdef1234",
+      "telefone": "21888888888",
+      "cpf": "111234567-89"
     },
     {
       "id": 4,
-      "cpf": "13768008614",
-      "nome": "Luiza Vieira",
-      "pagamento": "Crédito"
-    },
-    {
-      "id": 5,
-      "cpf": "31221228552",
-      "nome": "Gabrielly Souza",
-      "pagamento": "Crédito"
-    },
-    {
-      "id": 6,
-      "cpf": "31221228559",
-      "nome": "Fernanda Denobriga",
-      "pagamento": "Crédito"
+      "email": "flavia@gmail.com",
+      "senha": "abcdef5678",
+      "telefone": "21777777777",
+      "cpf": "111222345-67"        
     }
   ],
   "exibicao": [
